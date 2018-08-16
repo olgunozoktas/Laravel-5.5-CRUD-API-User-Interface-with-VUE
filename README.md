@@ -1,6 +1,6 @@
 # Laravel 5.5 CRUD API + User Interface with VUE 
 
-This is a tutorial to create UI with VUE based on previous project which is in PHP/Laravel Framework and followed on youtube. [Video][1]
+This is a tutorial to create UI with VUE - based on previous project which is in PHP/Laravel Framework and followed on youtube. [Video][1]
 
 [1]: https://www.youtube.com/watch?v=4pc6cgisbKE 
 
@@ -29,7 +29,7 @@ resources\assets
 
 1. Go To resources\assets\js\components -> create any file, if you put component name it will be useful
 
-For example: Articles.js
+For example: Articles.vue
 
 ## How to use this component?
 
